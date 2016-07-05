@@ -1,0 +1,5 @@
+C:\InfragisticsProjects\Exploring_igGrid_Features\Exploring_igGrid_Features\bin\Exploring_igGrid_Features.dll.config
+C:\InfragisticsProjects\Exploring_igGrid_Features\Exploring_igGrid_Features\bin\Exploring_igGrid_Features.dll
+C:\InfragisticsProjects\Exploring_igGrid_Features\Exploring_igGrid_Features\bin\Exploring_igGrid_Features.pdb
+C:\InfragisticsProjects\Exploring_igGrid_Features\Exploring_igGrid_Features\obj\Debug\Exploring_igGrid_Features.dll
+C:\InfragisticsProjects\Exploring_igGrid_Features\Exploring_igGrid_Features\obj\Debug\Exploring_igGrid_Features.pdb
